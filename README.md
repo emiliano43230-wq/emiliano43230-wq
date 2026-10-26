@@ -1,6 +1,6 @@
 ## Hola soy Emi 
 
-<<!--
+<!--
 - Estudió Matemáticas para el desarrollo en la UNAM...
 - Me apasiona el área de bio matemáticas  ...
 - Intereses de investigación.
